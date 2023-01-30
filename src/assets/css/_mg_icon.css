@@ -1,0 +1,556 @@
+.fa-mg {
+    display: inline-block;
+    font: normal normal normal 14px/1 mg_icons;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-mg-10elotto:before {
+    content: '';
+}
+
+.fa-mg-agenzia:before {
+    content: '';
+}
+
+.fa-mg-android:before {
+    content: '';
+}
+
+.fa-mg-betting:before {
+    content: '';
+}
+
+.fa-mg-bingo:before {
+    content: '';
+}
+
+.fa-mg-blog:before {
+    content: '';
+}
+
+.fa-mg-booking:before {
+    content: '';
+}
+
+.fa-mg-cardgames:before {
+    content: '';
+}
+
+.fa-mg-cartasi:before {
+    content: '';
+}
+
+.fa-mg-casino:before {
+    content: '';
+}
+
+.fa-mg-cc:before {
+    content: '';
+}
+
+.fa-mg-clickbuy:before {
+    content: '';
+}
+
+.fa-mg-crm:before {
+    content: '';
+}
+
+.fa-mg-dovesiamo:before {
+    content: '';
+}
+
+.fa-mg-emoney:before {
+    content: '';
+}
+
+.fa-mg-facebook:before {
+    content: '';
+}
+
+.fa-mg-grattaevinci:before {
+    content: '';
+}
+
+.fa-mg-ios:before {
+    content: '';
+}
+
+.fa-mg-ippica:before {
+    content: '';
+}
+
+.fa-mg-tris:before {
+    content: '';
+}
+
+.fa-mg-toto:before {
+    content: '';
+}
+
+.fa-mg-totalizzatore:before {
+    content: '';
+}
+
+.fa-mg-superenalotto:before {
+    content: '';
+}
+
+.fa-mg-sms:before {
+    content: '';
+}
+
+.fa-mg-sisal:before {
+    content: '';
+}
+
+.fa-mg-radio:before {
+    content: '';
+}
+
+.fa-mg-race:before {
+    content: '';
+}
+
+.fa-mg-prepaid:before {
+    content: '';
+}
+
+.fa-mg-postepay:before {
+    content: '';
+}
+
+.fa-mg-poker:before {
+    content: '';
+}
+
+.fa-mg-phone:before {
+    content: '';
+}
+
+.fa-mg-newspaper:before {
+    content: '';
+}
+
+.fa-mg-neteller:before {
+    content: '';
+}
+
+.fa-mg-moneybookers:before {
+    content: '';
+}
+
+.fa-mg-mobile:before {
+    content: '';
+}
+
+.fa-mg-match:before {
+    content: '';
+}
+
+.fa-mg-mail:before {
+    content: '';
+}
+
+.fa-mg-lotto:before {
+    content: '';
+}
+
+.fa-mg-logo:before {
+    content: '';
+}
+
+.fa-mg-triveneto:before {
+    content: '';
+}
+
+.fa-mg-tv:before {
+    content: '';
+}
+
+.fa-mg-twitter:before {
+    content: '';
+}
+
+.fa-mg-user:before {
+    content: '';
+}
+
+.fa-mg-v7:before {
+    content: '';
+}
+
+.fa-mg-venetobanca:before {
+    content: '';
+}
+
+.fa-mg-virtual:before {
+    content: '';
+}
+
+.fa-mg-winforlife:before {
+    content: '';
+}
+
+.fa-mg-netbanx:before {
+    content: '';
+}
+
+.fa-mg-bos:before {
+    content: '';
+}
+
+.fa-mg-chip:before {
+    content: '';
+}
+
+.fa-mg-network:before {
+    content: '';
+}
+
+.fa-mg-news:before {
+    content: '';
+}
+
+.fa-mg-pptour:before {
+    content: '';
+}
+
+.fa-mg-users:before {
+    content: '';
+}
+
+.fa-mg-quote:before {
+    content: '';
+}
+
+.fa-mg-magazine:before {
+    content: '';
+}
+
+.fa-mg-sitemap:before {
+    content: '';
+}
+
+.fa-mg-chartbar:before {
+    content: '';
+}
+
+.fa-mg-find:before {
+    content: '';
+}
+
+.fa-mg-tags:before {
+    content: '';
+}
+
+.fa-mg-tennis:before {
+    content: '';
+}
+
+.fa-mg-doc:before {
+    content: '';
+}
+
+.fa-mg-add:before {
+    content: '';
+}
+
+.fa-mg-callcenter:before {
+    content: '';
+}
+
+.fa-mg-calcio:before {
+    content: '';
+}
+
+.fa-mg-motociclismo:before {
+    content: '';
+}
+
+.fa-mg-ciclismo:before {
+    content: '';
+}
+
+.fa-mg-money:before {
+    content: '';
+}
+
+.fa-mg-automobilismo:before {
+    content: '';
+}
+
+.fa-mg-home:before {
+    content: '';
+}
+
+.fa-mg-refresh:before {
+    content: '';
+}
+
+.fa-mg-lock:before {
+    content: '';
+}
+
+.fa-mg-levrieri:before {
+    content: '';
+}
+
+.fa-mg-chrono:before {
+    content: '';
+}
+
+.fa-mg-18:before {
+    content: '';
+}
+
+.fa-mg-aams:before {
+    content: '';
+}
+
+.fa-mg-baseball:before {
+    content: '';
+}
+
+.fa-mg-basket:before {
+    content: '';
+}
+
+.fa-mg-boxe:before {
+    content: '';
+}
+
+.fa-mg-football:before {
+    content: '';
+}
+
+.fa-mg-handball:before {
+    content: '';
+}
+
+.fa-mg-hockey:before {
+    content: '';
+}
+
+.fa-mg-memobet1:before {
+    content: '';
+}
+
+.fa-mg-memobet2:before {
+    content: '';
+}
+
+.fa-mg-montepremi:before {
+    content: '';
+}
+
+.fa-mg-probabilita:before {
+    content: '';
+}
+
+.fa-mg-rugby:before {
+    content: '';
+}
+
+.fa-mg-timone:before {
+    content: '';
+}
+
+.fa-mg-volley:before {
+    content: '';
+}
+
+.fa-mg-bollettino:before {
+    content: '';
+}
+
+.fa-mg-paypal:before {
+    content: '';
+}
+
+.fa-mg-postecommerce:before {
+    content: '';
+}
+
+.fa-mg-postepay:before {
+    content: '';
+}
+
+.fa-mg-safecharge:before {
+    content: '';
+}
+
+.fa-mg-scratchcard:before {
+    content: '';
+}
+
+.fa-mg-fav:before {
+    content: '';
+}
+
+.fa-mg-freerounds:before {
+    content: '';
+}
+
+.fa-mg-jackpot:before {
+    content: '';
+}
+
+.fa-mg-livecasino:before {
+    content: '';
+}
+
+.fa-mg-new:before {
+    content: '';
+}
+
+.fa-mg-tablegame:before {
+    content: '';
+}
+
+.fa-mg-tips:before {
+    content: '';
+}
+
+.fa-mg-videopoker:before {
+    content: '';
+}
+
+.fa-mg-videoslot:before {
+    content: '';
+}
+
+.fa-mg-live:before {
+    content: '';
+}
+
+.fa-mg-olympicgames:before {
+    content: '';
+}
+
+.fa-mg-schedina01:before {
+    content: '';
+}
+
+.fa-mg-schedina02:before {
+    content: '';
+}
+
+.fa-mg-fantasy:before {
+    content: '';
+}
+
+.fa-mg-live-2:before {
+    content: '';
+}
+
+.fa-mg-sportvari:before {
+    content: '';
+}
+
+.fa-mg-specialsoccer:before {
+    content: '';
+}
+
+.fa-mg-amazonpay:before {
+    content: '';
+}
+
+.fa-mg-amex:before {
+    content: '';
+}
+
+.fa-mg-applepay:before {
+    content: '';
+}
+
+.fa-mg-appstore:before {
+    content: '';
+}
+
+.fa-mg-freebet:before {
+    content: '';
+}
+
+.fa-mg-funbonus:before {
+    content: '';
+}
+
+.fa-mg-giochi:before {
+    content: '';
+}
+
+.fa-mg-gpay:before {
+    content: '';
+}
+
+.fa-mg-instagram:before {
+    content: '';
+}
+
+.fa-mg-logo-sport:before {
+    content: '';
+}
+
+.fa-mg-mastercard:before {
+    content: '';
+}
+
+.fa-mg-miegiocate:before {
+    content: '';
+}
+
+.fa-mg-playstore:before {
+    content: '';
+}
+
+.fa-mg-telegram:before {
+    content: '';
+}
+
+.fa-mg-visa:before {
+    content: '';
+}
+
+.fa-mg-volatility:before {
+    content: '';
+}
+
+.fa-mg-whatsapp:before {
+    content: '';
+}
+
+.fa-mg-youtube:before {
+    content: '';
+}
+
+.fa-mg-promo:before {
+    content: '';
+}
+
+.fa-mg-angoli:before {
+    content: '';
+}
+
+.fa-mg-falli:before {
+    content: '';
+}
+
+.fa-mg-sanzioni:before {
+    content: '';
+}
+
+.fa-mg-speciali:before {
+    content: '';
+}
+
+.fa-mg-tiri:before {
+    content: '';
+}
+
+.fa-mg-lotterie:before {
+    content: '';
+}
